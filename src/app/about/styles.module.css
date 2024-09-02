@@ -1,0 +1,9 @@
+/* .dashboard {
+    padding: 24px;
+    background-color: aquamarine;
+  } */
+  .container {
+    padding: '50px';
+    text-align: 'center';
+    background-color: '#f0f8ff';
+  }
