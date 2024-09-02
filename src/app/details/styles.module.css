@@ -1,0 +1,9 @@
+.container {
+    padding: '50px';
+    text-align: 'center';
+    background-color: '#f0f8ff';
+  }
+  .list {
+    list-style-type: 'none';
+    padding: 0;
+  }
